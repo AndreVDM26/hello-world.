@@ -1,0 +1,2 @@
+important.md
+It is more important to take your time and ensure you fully understand the work as apposed to rushing through the work to complete tiles, This is the foundational phase if you have a firm grip on the foundation it will serve you well in the future, We are doing this to learn how to code, not to learn how to pass a cioding course. 
